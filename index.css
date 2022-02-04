@@ -7,3 +7,12 @@ body{
     color: #c8e3d5;
     
 }
+.alarmpic{
+width: 250;
+height: 400;
+}
+.cap{
+    text-align: center;
+    color: sandybrown;
+    font-style: sans-serif;
+}
