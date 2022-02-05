@@ -1,0 +1,15 @@
+body{
+    align-items: center;
+    text-align: center;
+    background: rgb(39, 238, 195);
+}
+#playButton {
+    background: rgb(153, 28, 211);
+}
+#pauseButton {
+    background: rgb(153, 28, 211);
+}
+#resetButton {
+    background: rgb(153, 28, 211);
+}
+    
